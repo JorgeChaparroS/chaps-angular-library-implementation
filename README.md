@@ -1,27 +1,17 @@
-# UsingChapsLibrary
+# Implementation of chaps-angular-library
+Library for Angular reusable components 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
+This application is just a landing page to show the components defined in the chaps-angular-lib (available in NPM if you want to use it https://www.npmjs.com/package/chaps-angular-lib?activeTab=readme#chapsangularlib). 
 
-## Development server
+# Installation Steps for local environment: 
+1. In your workspace, clone the repository with "git clone https://github.com/JorgeChaparroS/chaps-angular-library"
+2. Type "cd chaps-angular-library"
+3. Install dependencies with "npm i"
+4. Run the application with "npm run start" or "ng serve"
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+# Using it in your project: 
+1. Just make sure you have a Node project, and then install the dependency on it by typing: npm i chaps-angular-lib
+2. Remember that this library depends on bootstrap, so you better install it as well by typing: npm i bootstrap. (and configure your angular.json too.)
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# Website: 
+If you do not want to install and launch the project locally, you can always go and check it online here: 
