@@ -14,4 +14,4 @@ This application is just a landing page to show the components defined in the ch
 2. Remember that this library depends on bootstrap, so you better install it as well by typing: npm i bootstrap. (and configure your angular.json too.)
 
 # Website: 
-If you do not want to install and launch the project locally, you can always go and check it online here: 
+If you do not want to install and launch the project locally, you can always go and check it online here: https://chaps-angular-lib.netlify.app/
